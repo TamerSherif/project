@@ -29,10 +29,9 @@ const AboutPage = (props, context) => {
               everything AI.
             </p>
             <p>
-              HIIIIIIIIII{' '}
-              <span className="highlight"> awesome stuff</span>. I stay close to
-              the community and try to keep tabs with the pace at which the web
-              is evolving. I also like to{' '}
+              I love trying out new things. I am <span className="highlight"> beyond passionate</span> with what I do and I love diversifying myself in many fields {' '}
+              . I am always seeking new challenges and comptetions in the community. I am both interested and intrigued by the fields of machine learning, full stack, VR and AR development. 
+              . close to the community and try to keep tabs with the pace at which the web is evolving. I also like to{' '}
               <span className="highlight">blog</span> what I learn.
             </p>
             <p>
