@@ -42,6 +42,7 @@ const AboutPage = (props, context) => {
             <p className="text-emoji" style={{ color: colorPrimary }}>
               \ (•◡•) /
             </p>
+            
           </div>
         </div>
       </div>

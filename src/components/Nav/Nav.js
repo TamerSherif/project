@@ -80,6 +80,12 @@ class Nav extends Component {
           >
             Portfolio
           </div>
+          <div
+            className="menu__item"
+            onClick={(e) => this.scrollToPage('.activities-page')}
+          >
+            Activities
+          </div>
           
           
           <a href="../../assets/TSResume.pdf" target="_blank" style={{color: 'inherit'}}>
