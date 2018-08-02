@@ -25,11 +25,11 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I like <span className="highlight">JavaScript</span> and
-              everything web.
+              I love <span className="highlight">Development</span> and
+              everything AI.
             </p>
             <p>
-              When my dev senses kick-in I build presumably{' '}
+              HIIIIIIIIII{' '}
               <span className="highlight"> awesome stuff</span>. I stay close to
               the community and try to keep tabs with the pace at which the web
               is evolving. I also like to{' '}
