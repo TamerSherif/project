@@ -82,7 +82,7 @@ class Nav extends Component {
           </div>
           
           
-          <a href="./TSResume.pdf" target="_blank" style={{color: 'inherit'}}>
+          <a href="../../assets/TSResume.pdf" target="_blank" style={{color: 'inherit'}}>
            <div
             className="menu__item"
           >
