@@ -11,6 +11,7 @@ const SocialIcons = (props, context) => {
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/TamerSherif" style={ { color: colorPrimary } }><i className="fab fa-github"></i></a>
         <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/tamer-sherif-628632112/" style={ { color: colorPrimary } }><i className="fab fa-linkedin"></i></a>
         <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@tamersherif" style={ { color: colorPrimary } }><i className="fab fa-medium"></i></a>
+
       </div>
   );
 };

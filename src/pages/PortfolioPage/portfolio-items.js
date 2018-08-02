@@ -1,34 +1,35 @@
 import React from 'react';
 
 export default [{
-  name: 'typy',
+  name: 'AugRes',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Typy
+        AugRes
       </div>
       <div className='portfolio-item__desc'>
-        JavaScript type checking library with a sweeter syntax
+        An intuitive reservation system using ARKit. I worked on the Google maps API integration
+        with Swift
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-js"></i>
         <i className="fab fa-npm"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/typy">NPM</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/typy">More</a>
+        
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/tamersherif/augres">More</a>
       </div>
     </div>
   )
 }, {
-  name: 'dev-landing-page',
+  name: 'Lily-Bot-MD',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Dev Landing Page
+        Lily Bot MD
       </div>
       <div className='portfolio-item__desc'>
-        Minimal landing page for developers
+        A chatbot to classify diabetic retinopathy in retinal image scans.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-html5"></i>
@@ -41,14 +42,14 @@ export default [{
     </div>
   )
 }, {
-  name: 'react-redux-boilerplate',
+  name: 'Disease-Classifier',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        React-Redux Boilerplate
+        Disease Classifier
       </div>
       <div className='portfolio-item__desc'>
-        Boilerplate code setup with community best practices
+        Worked on a full stack project using Django REST API, ReactJS and a classifier model using Tensorflow. 
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
@@ -57,64 +58,6 @@ export default [{
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/react-redux-boilerplate">More</a>
-      </div>
-    </div>
-  )
-}, {
-  name: 'npm-module-boilerplate',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        NPM Module Boilerplate
-      </div>
-      <div className='portfolio-item__desc'>
-         Boilerplate plate code to create and publish an NPM package
-      </div>
-      <div className='portfolio-item__icon'>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-npm"></i>
-      </div>
-      <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/publish-your-own-npm-package---5b71">Blog</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/npm-module-boilerplate">More</a>
-      </div>
-    </div>
-  )
-}, {
-  name: 'axios-retry-interceptor',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        Axios Retry Interceptor
-      </div>
-      <div className='portfolio-item__desc'>
-        Configurable Axios Interceptor to retry failed http calls.
-      </div>
-      <div className='portfolio-item__icon'>
-        <i className="fab fa-js"></i>
-      </div>
-      <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/axios-retry-interceptor">More</a>
-      </div>
-    </div>
-  )
-}, {
-  name: 'browser-or-node',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        Browser or Node
-      </div>
-      <div className='portfolio-item__desc'>
-        Javascript library to check the runtime JS env
-      </div>
-      <div className='portfolio-item__icon'>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-npm"></i>
-      </div>
-      <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/browser-or-node">More</a>
       </div>
     </div>
   )

@@ -25,27 +25,20 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I love <span className="highlight">Development</span> and
+              I <span className="highlight">love Development</span> and
               everything AI.
             </p>
             <p>
-              I love trying out new things. I am <span className="highlight"> beyond passionate</span> with what I do and I love diversifying myself in many fields {' '}
-              . I am always seeking new challenges and comptetions in the community. I am both interested and intrigued by the fields of machine learning, full stack, VR and AR development. 
-              . close to the community and try to keep tabs with the pace at which the web is evolving. I also like to{' '}
-              <span className="highlight">blog</span> what I learn.
+              Trying out new things truly excites me. I am <span className="highlight"> beyond passionate</span> with what I do and I love diversifying myself in many fields {' '}
+              . I am always seeking new challenges and comptetions in the community. I am both involved and intrigued by the fields of machine learning, full stack, VR and AR development. 
+              Additionally, I'm also interested in project management, entrepenuership and business strategies. 
+               I love enhancing my skills by being involved in the engineering community.
             </p>
             <p>
-              I built this site <span className="highlight">from scratch</span>.
-              By scratch, I mean <i>absolutely from scratch</i>{' '}
-              <span className="highlight">
-                without any UI library/framework
-              </span>{' '}
-              (except React though) and had so much fun along the way.
+              I enjoy seeking ways to advance and enhance my skills and discuss new ideas. I'm always looking for opportunities that introduce me to ambitious, motivated and intelligent people. 
+              I'm particularly looking for opportunities involved in software development, project management and startups.
             </p>
-            <p>
-              React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
-              AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
-            </p>
+
             <p className="text-emoji" style={{ color: colorPrimary }}>
               \ (•◡•) /
             </p>
