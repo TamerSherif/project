@@ -25,16 +25,16 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I <span className="highlight">love Development</span> and
-              everything AI.
+              <span className="highlight">In  love with software development and
+              everything AI.</span> 
             </p>
             <p>
-              Trying out new things and taking lead truly excites me. I am <span className="highlight"> beyond passionate</span> with what I do and I love diversifying myself in many fields. I am always seeking new challenges and comptetions in the community. I am both involved and intrigued by the fields of machine learning, full stack, VR and AR development. 
-              Additionally, I'm very invested in project management and entrepenuership. I'm always trying to apply my skills by building a practical solution that can be efficiently utilized.
+              Trying out new things and taking lead is what gets me up in the morning. I am <span className="highlight"> beyond passionate</span> with what I do and I love diversifying myself in interesting and evolving fields. I am both involved and intrigued by the fields of machine learning, full stack, VR and AR development. 
+              Additionally, I'm very invested in project management and entrepenuership. Applying my skills by building efficient and practical solutions is my mission.
             </p>
             <p>
-              I enjoy seeking ways to advance and enhance my skills and discuss new ideas. I'm always looking for opportunities that introduce me to ambitious, motivated and intelligent people. 
-              I'm particularly looking for opportunities involved in software development, project management and startups.
+              I'm constantly on the lookout for new opportunities that introduce me to ambitious, motivated and intelligent people. 
+              If that resonates with you, hit me up and let's chat!
             </p>
 
             <p className="text-emoji" style={{ color: colorPrimary }}>
