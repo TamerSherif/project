@@ -97,7 +97,7 @@ export default [{
         <i className="fab fa-js"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="http://www.tamersherif.com/tsfiddle.github.io/">Heroku</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://tamersherif.github.io/tsfiddle.github.io/">Heroku</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/TamerSherif/tsfiddle.github.io">GitHub</a>
       </div>
     </div>
