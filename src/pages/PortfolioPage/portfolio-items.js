@@ -8,16 +8,16 @@ export default [{
         AugRes
       </div>
       <div className='portfolio-item__desc'>
-        An intuitive reservation system using ARKit. I worked on the Google maps API integration
-        with Swift
+        An intuitive reservation system using ARKit. Worked on the Google maps API integration
+        with the Swift based AR app.
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-npm"></i>
+        <i className="fab fa-google"></i>
+        <i className="fab fa-apple"></i>
       </div>
       <div className='portfolio-item__links'>
         
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/tamersherif/augres">More</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/tamersherif/augres">GitHub</a>
       </div>
     </div>
   )
@@ -29,15 +29,14 @@ export default [{
         Lily Bot MD
       </div>
       <div className='portfolio-item__desc'>
-        A chatbot to classify diabetic retinopathy in retinal image scans.
+        MS Bot based chatbot to classify diabetic retinopathy in retinal image scans using Tensorflow.
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-html5"></i>
-        <i className="fab fa-css3"></i>
+        <i className="fab fa-microsoft"></i>
+        <i className="fab fa-python"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk">Blog</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/dev-landing-page">More</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://devpost.com/software/lily-md-ai">Devpost</a>
       </div>
     </div>
   )
@@ -49,16 +48,59 @@ export default [{
         Disease Classifier
       </div>
       <div className='portfolio-item__desc'>
-        Worked on a full stack project using Django REST API, ReactJS and a classifier model using Tensorflow. 
+        Designed a web application using Django REST, Postgres, React and Tensorflow to upload, classify an image for a disease and display the results.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
+        <i className="fab fa-python"></i>
+        <i className="fab fa-npm"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a rel="noopener noreferrer" href="/">Heroku</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/TamerSherif/diseaseClassifier">GitHub</a>
+      </div>
+    </div>
+
+  )
+},
+{
+  name: 'SSD-Video-Detection',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+      SSD Video Detection
+      </div>
+      <div className='portfolio-item__desc'>
+        Contributed to Single Shot Detectors by creating a video detection script using numpy, OpenCV and Caffe.
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-python"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/TamerSherif/caffe">GitHub</a>
+      </div>
+    </div>
+
+  )
+},
+{
+  name: 'TSFiddle',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+      TSFiddle
+      </div>
+      <div className='portfolio-item__desc'>
+      Developed a JavaScript based code processor (inspired by JSfiddle) that can run HTML, CSS and JavaScript and display the resulting page.
+      </div>
+      <div className='portfolio-item__icon'>
         <i className="fab fa-js"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/react-redux-boilerplate">More</a>
+        <a target="_blank" rel="noopener noreferrer" href="http://www.tamersherif.com/tsfiddle.github.io/">Heroku</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/TamerSherif/tsfiddle.github.io">GitHub</a>
       </div>
     </div>
+
   )
 }]
