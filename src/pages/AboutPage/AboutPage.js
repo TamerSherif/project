@@ -29,10 +29,8 @@ const AboutPage = (props, context) => {
               everything AI.
             </p>
             <p>
-              Trying out new things truly excites me. I am <span className="highlight"> beyond passionate</span> with what I do and I love diversifying myself in many fields {' '}
-              . I am always seeking new challenges and comptetions in the community. I am both involved and intrigued by the fields of machine learning, full stack, VR and AR development. 
-              Additionally, I'm also interested in project management, entrepenuership and business strategies. 
-               I love enhancing my skills by being involved in the engineering community.
+              Trying out new things and taking lead truly excites me. I am <span className="highlight"> beyond passionate</span> with what I do and I love diversifying myself in many fields. I am always seeking new challenges and comptetions in the community. I am both involved and intrigued by the fields of machine learning, full stack, VR and AR development. 
+              Additionally, I'm very invested in project management and entrepenuership. I'm always trying to apply my skills by building a practical solution that can be efficiently utilized.
             </p>
             <p>
               I enjoy seeking ways to advance and enhance my skills and discuss new ideas. I'm always looking for opportunities that introduce me to ambitious, motivated and intelligent people. 

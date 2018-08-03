@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { toElement as scrollToElement } from '@utils/scroll';
+import TSResume from '../../assets/TSResume.pdf';
 
 import './style.scss';
 
@@ -88,7 +89,7 @@ class Nav extends Component {
           </div>
           
           
-          <a href="../../assets/TSResume.pdf" target="_blank" style={{color: 'inherit'}}>
+          <a href={TSResume}target="_blank" style={{color: 'inherit'}}>
            <div
             className="menu__item"
           >

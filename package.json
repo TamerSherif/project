@@ -102,6 +102,7 @@
   },
   "dependencies": {
     "hoek": "^5.0.3",
-    "react-app": "^1.1.2"
+    "react-app": "^1.1.2",
+    "react-pdf": "^3.0.5"
   }
 }
