@@ -4,6 +4,8 @@ import ScrollToPrevious from '@components/ScrollToPrevious';
 import './style.scss';
 import hprinc from './assets/hprinc.png'
 import htn from './assets/htn.png'
+import htn2 from './assets/htn2.png'
+import ht6ix from './assets/ht6ix.png'
 import startupw from './assets/startupw.png'
 import strat from './assets/strat.png'
 import ibmhack from './assets/ibmhack.png'
@@ -32,6 +34,21 @@ const ActivitiesPage = (props, context) => {
         <br/><br/>
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
+          <div>
+								<p className="12u 12u$(mobile)">
+									<img src= {ht6ix} className="small-logo jobLogoAlign" style={{width: '12%'}} />
+									<span><br/>Hack the 6ix - Developer (Upcoming)</span>
+								</p>
+                <br/><br/>
+                </div> 
+
+                 <div>
+								<p className="12u 12u$(mobile)">
+									<img src= {htn2} className="small-logo jobLogoAlign" style={{width: '12%'}} />
+									<span><br/>Hack the North - Developer (Upcoming)</span>
+								</p>
+                <br/><br/>
+                </div> 
 
                  <div>
 								<p className="12u 12u$(mobile)">
