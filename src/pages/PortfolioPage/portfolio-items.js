@@ -5,7 +5,7 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        AugRes
+        VisionAI
       </div>
       <div className='portfolio-item__desc'>
       Assistant that helps the visually impaired by describing their surroundings or reading any text through normal speech. 
