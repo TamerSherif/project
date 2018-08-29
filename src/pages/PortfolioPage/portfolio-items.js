@@ -1,6 +1,27 @@
 import React from 'react';
 
 export default [{
+  name: 'VisionAI',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        AugRes
+      </div>
+      <div className='portfolio-item__desc'>
+      Assistant that helps the visually impaired by describing their surroundings or reading any text through normal speech. 
+      (Google Assistant, Google Cloud Vision API, Tensorflow, Python, Flask)
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-google"></i>
+        <i className="fab fa-python"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/TamerSherif/VisionAI">GitHub</a>
+      </div>
+    </div>
+  )
+}, {
   name: 'AugRes',
   render: (
     <div className='portfolio-item'>
@@ -21,7 +42,8 @@ export default [{
       </div>
     </div>
   )
-}, {
+},
+{
   name: 'Lily-Bot-MD',
   render: (
     <div className='portfolio-item'>
@@ -56,7 +78,6 @@ export default [{
         <i className="fab fa-npm"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a rel="noopener noreferrer" href="/">Heroku</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/TamerSherif/diseaseClassifier">GitHub</a>
       </div>
     </div>

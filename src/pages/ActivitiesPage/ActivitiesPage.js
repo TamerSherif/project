@@ -37,18 +37,11 @@ const ActivitiesPage = (props, context) => {
           <div>
 								<p className="12u 12u$(mobile)">
 									<img src= {ht6ix} className="small-logo jobLogoAlign" style={{width: '12%'}} />
-									<span><br/>Hack the 6ix - Developer (Upcoming)</span>
+									<span><br/>Hack the 6ix - Developer (Top Hat Category Winner, 2018)</span>
 								</p>
                 <br/><br/>
                 </div> 
 
-                 <div>
-								<p className="12u 12u$(mobile)">
-									<img src= {htn2} className="small-logo jobLogoAlign" style={{width: '12%'}} />
-									<span><br/>Hack the North - Developer (Upcoming)</span>
-								</p>
-                <br/><br/>
-                </div> 
 
                  <div>
 								<p className="12u 12u$(mobile)">
@@ -61,11 +54,26 @@ const ActivitiesPage = (props, context) => {
                  <div>
 								<p className="12u 12u$(mobile)">
 									<img src= {agewell} className="small-logo jobLogoAlign" style={{width: '12%'}} />
-									<span><br/>AGE-WELL National Impact Challenge - Computer Vision Developer (2018)</span>
+									<span><br/>AGE-WELL National Impact Challenge - Computer Vision Developer (Currently: Top 8 Finalists Stage)</span>
 								</p>
                 <br/><br/>
                 </div> 
 
+                 <div>
+								<p className="12u 12u$(mobile)">
+									<img src= {htn2} className="small-logo jobLogoAlign" style={{width: '12%'}} />
+									<span><br/>Hack the North - Developer (Upcoming)</span>
+								</p>
+                <br/><br/>
+                </div> 
+                <div>
+
+								<p className="12u 12u$(mobile)">
+									<img src= {hprinc} className="small-logo jobLogoAlign" style={{width: '12%'}} />
+									<span><br/>HackPrinceton - Developer (2017)</span>
+								</p>
+                <br/><br/>
+                </div>
 
                 <div>
 								<p className="12u 12u$(mobile)">
@@ -74,17 +82,7 @@ const ActivitiesPage = (props, context) => {
 								</p>
                 <br/><br/>
                </div>
-
-
-                <div>
-								<p className="12u 12u$(mobile)">
-									<img src= {hprinc} className="small-logo jobLogoAlign" style={{width: '12%'}} />
-									<span><br/>HackPrinceton - Developer (2017)</span>
-								</p>
-                <br/><br/>
-                </div>
-               
-
+    
 
                 <div>
 								<p className="12u 12u$(mobile)">
