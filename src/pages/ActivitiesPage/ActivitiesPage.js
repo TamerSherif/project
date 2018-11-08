@@ -54,7 +54,7 @@ const ActivitiesPage = (props, context) => {
                  <div>
 								<p className="12u 12u$(mobile)">
 									<img src= {agewell} className="small-logo jobLogoAlign" style={{width: '12%'}} />
-									<span><br/>AGE-WELL National Impact Challenge - Computer Vision Developer (Currently: Top 8 Finalists Stage)</span>
+									<span><br/>AGE-WELL National Impact Challenge - Computer Vision Developer (Second Place Winner)</span>
 								</p>
                 <br/><br/>
                 </div> 
